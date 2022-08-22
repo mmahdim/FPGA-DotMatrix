@@ -1,5 +1,0 @@
-vhdl work "Shift_Registers.vhd"
-vhdl work "num_decode.vhd"
-vhdl work "loadshiftregisters.vhd"
-vhdl work "keypad.vhd"
-vhdl work "top.vhd"

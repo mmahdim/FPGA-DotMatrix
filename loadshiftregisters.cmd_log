@@ -1,1 +1,0 @@
-vhdtdtfi -prj Dot_Matrix -o D:/Horrieh_2Stu/Lab_Fpga/Dehnavi_Mohammadi/Dot_Matrix/loadshiftregisters.vhi -module loadshiftregisters -template C:/Xilinx/13.2/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work loadshiftregisters.vhd 
