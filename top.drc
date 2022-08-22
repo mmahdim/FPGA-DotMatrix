@@ -1,0 +1,33 @@
+Release 14.7 Drc P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Sat Nov 16 11:52:22 2019
+
+drc -z top.ncd top.pcf
+
+WARNING:PhysDesignRules:812 - Dangling pin <DOB20> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB21> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB22> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB23> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB24> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB25> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB26> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB27> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB28> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB29> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB30> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+WARNING:PhysDesignRules:812 - Dangling pin <DOB31> on
+   block:<Inst_num_decode_UP/Mrom_horizontal_rom000014.B>:<RAMB16_RAMB16B>.
+DRC detected 0 errors and 12 warnings.  Please see the previously displayed
+individual error or warning messages for more details.

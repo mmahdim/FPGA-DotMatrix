@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Mahdi/Xilinx/Projects/Dot_Matrix/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Mahdi/Xilinx/Projects/Dot_Matrix/xst"
+elaborate
+-ifn keypad.prj
+-ifmt mixed

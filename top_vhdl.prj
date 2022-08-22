@@ -1,0 +1,5 @@
+vhdl work "C:\Users\AMIN\Desktop\Project\Dot_Matrix\Shift_Registers.vhd"
+vhdl work "C:\Users\AMIN\Desktop\Project\Dot_Matrix\num_decode.vhd"
+vhdl work "C:\Users\AMIN\Desktop\Project\Dot_Matrix\loadshiftregisters.vhd"
+vhdl work "C:\Users\AMIN\Desktop\Project\Dot_Matrix\keypad.vhd"
+vhdl work "C:\Users\AMIN\Desktop\Project\Dot_Matrix\top.vhd"
