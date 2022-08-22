@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Bitgen" num="40" delta="old" >Replacing &quot;<arg fmt="%s" index="1">Auto</arg>&quot; with &quot;<arg fmt="%s" index="2">NoWait</arg>&quot; for option &quot;<arg fmt="%s" index="3">Match_cycle</arg>&quot;.  Most commonly, bitgen has determined and will use a specific value instead of the generic command-line value of &quot;Auto&quot;.  Alternately, this message appears if the same option is specified multiple times on the command-line.  In this case, the option listed last will be used.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB20</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB21</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB22</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB23</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB24</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB25</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB26</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB27</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB28</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB29</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB30</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="812" delta="old" >Dangling pin &lt;<arg fmt="%s" index="1">DOB31</arg>&gt; on block:&lt;<arg fmt="%s" index="2">Inst_num_decode_UP/Mrom_horizontal_rom000014.B</arg>&gt;:&lt;<arg fmt="%s" index="3">RAMB16_RAMB16B</arg>&gt;.
+</msg>
+
+</messages>
+

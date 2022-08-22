@@ -1,0 +1,10 @@
+EN num_decode NULL C:/Users/AMIN/Desktop/Project/Dot_Matrix/num_decode.vhd sub00/vhpl00 1574792848
+AR shift_registers behavioral C:/Users/AMIN/Desktop/Project/Dot_Matrix/Shift_Registers.vhd sub00/vhpl08 1574792851
+EN top NULL C:/Users/AMIN/Desktop/Project/Dot_Matrix/top.vhd sub00/vhpl03 1574792852
+EN keypad NULL C:/Users/AMIN/Desktop/Project/Dot_Matrix/keypad.vhd sub00/vhpl02 1574792846
+EN loadshiftregisters NULL C:/Users/AMIN/Desktop/Project/Dot_Matrix/loadshiftregisters.vhd sub00/vhpl04 1574792844
+AR num_decode behavioral C:/Users/AMIN/Desktop/Project/Dot_Matrix/num_decode.vhd sub00/vhpl01 1574792849
+EN shift_registers NULL C:/Users/AMIN/Desktop/Project/Dot_Matrix/Shift_Registers.vhd sub00/vhpl07 1574792850
+AR keypad behavioral C:/Users/AMIN/Desktop/Project/Dot_Matrix/keypad.vhd sub00/vhpl06 1574792847
+AR loadshiftregisters behavioral C:/Users/AMIN/Desktop/Project/Dot_Matrix/loadshiftregisters.vhd sub00/vhpl05 1574792845
+AR top behavioral C:/Users/AMIN/Desktop/Project/Dot_Matrix/top.vhd sub00/vhpl09 1574792853

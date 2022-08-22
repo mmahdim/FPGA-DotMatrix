@@ -1,0 +1,2 @@
+vhdtdtfi -prj Dot_Matrix -o D:/Horrieh_2Stu/Lab_Fpga/Dehnavi_Mohammadi/Dot_Matrix/num_decode.vhi -module num_decode -template C:/Xilinx/13.2/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work num_decode.vhd 
+vhdtdtfi -prj Dot_Matrix -o D:/Horrieh_2Stu/Lab_Fpga/Dehnavi_Mohammadi/Dot_Matrix/num_decode.vhi -module num_decode -template C:/Xilinx/13.2/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work num_decode.vhd 
