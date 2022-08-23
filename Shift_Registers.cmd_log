@@ -1,0 +1,1 @@
+vhdtdtfi -prj Dot_Matrix -o C:/Users/Mahdi/Xilinx/Projects/Dot_Matrix/Shift_Registers.vhi -module Shift_Registers -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Shift_Registers.vhd 

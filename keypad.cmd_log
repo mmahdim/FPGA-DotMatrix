@@ -1,0 +1,1 @@
+vhdtdtfi -prj Dot_Matrix -o D:/Horrieh_2Stu/Lab_Fpga/Dehnavi_Mohammadi/Dot_Matrix/keypad.vhi -module keypad -template C:/Xilinx/13.2/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work keypad.vhd 
